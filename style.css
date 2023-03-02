@@ -1,0 +1,75 @@
+
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+.header{
+    display: flex;
+    gap :26%;
+    font-family: 'Quicksand', sans-serif;
+
+
+} 
+a{
+    text-align: center;
+    padding: 15px;
+}
+en{
+    margin: 0% 10% 0% 0%
+}
+name en{
+    text-align: left;
+}
+.dive{
+    display: flex;
+    font-size: 22px;
+    justify-content: space-between;
+    font-family: 'Quicksand', sans-serif;
+}
+.div4{
+margin:  0% 0% 0% 15%;
+}
+.style{
+    display: flex;
+    justify-content: space-between;
+}
+.new{
+    text-align: center;
+}
+span{
+    margin: 0% 0% 0% 20%;
+}
+.outline{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.words{
+    display: flex;
+}
+.account{
+background-color: black;
+    text-align: center;
+   color: aliceblue;
+   height: 180;
+   padding: 7px 20px;
+    
+     
+     
+}
+button{
+    border-radius: 15px;
+    padding: 7px 20px;
+
+}
+.div6{
+    display: flex;
+    flex-direction: row;
+}
+.img6{
+    margin: 0% 0% 0% 25%;
+}
+.img8{
+    margin-left: 6%;
+    margin-top: 5%;
+}
